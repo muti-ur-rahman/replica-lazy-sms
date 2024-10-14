@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <>
-      <footer class="mb-0 bg-[#EBE9FE] text-black py-4 ">
+      <footer class="mb-0 bg-[#EBE9FE] text-black py-4 h-[215px]">
         <div class="container mx-auto text-center">
           <p>&copy; 2024 Muti-ur -rahman. All rights reserved.</p>
 

@@ -5,9 +5,11 @@ import Footer from "../components/Footer/Footer";
 function ContactUs() {
   return (
     <>
-      <Navbar />
-      <div>ContactUs</div>
-      <Footer />
+      <div className="min-h-screen w-full">
+        <Navbar />
+        <div>ContactUs</div>
+        <Footer />
+      </div>
     </>
   );
 }

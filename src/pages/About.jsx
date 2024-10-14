@@ -9,8 +9,12 @@ function About() {
       <div className="flex flex-col w-{1043} m-12 p-12 ">
         <div className="min-h-screen topblog px-0 lg:px-12 flex flex-col justify-start rounded-lg items-center   ">
           <div className="shadow-2xl my-4  container lg:w-10/12 w-11/12 rounded">
-            <h1 className="flex flex-center ">About Lazysms</h1>
-            <h2>Online Services </h2>
+            <h1 className="font-bold text-4xl text-center center bg-grey">
+              About Lazysms
+            </h1>
+            <h2 className="font-bold text-2xl text-center center bg-grey">
+              Your Privacy and Security Guardians
+            </h2>
             <div className="gap-4">
               <p>
                 Welcome to Lazysms.com - your trusted online privacy and
