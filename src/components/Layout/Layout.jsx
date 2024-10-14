@@ -1,21 +1,19 @@
 // src/components/Layout.jsx
-import React from 'react';
-import Navbar from '../Header/Navbar';
-import Footer from '../Footer/Footer';
-import { Outlet } from 'react-router-dom';
-// import Content from '../Content/Content';
+import React from "react";
+import Navbar from "../Header/Navbar";
+import Footer from "../Footer/Footer";
+import { Outlet } from "react-router-dom";
 
 const Layout = () => {
   return (
     <>
       <Navbar />
-      <main className="flex-grow">
-        <Outlet />
-      </main>
-      <Footer />
-      </>
 
-    );
+      <Outlet />
+
+      <Footer />
+    </>
+  );
 };
 
 export default Layout;

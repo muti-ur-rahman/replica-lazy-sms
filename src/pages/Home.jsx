@@ -1,6 +1,8 @@
 import axios from "axios";
 import React, { useEffect } from "react";
 import { toast } from "react-toastify";
+import Navbar from "../components/Header/Navbar";
+import Footer from "../components/Footer/Footer";
 
 function Home() {
   async function getPosts() {
@@ -17,11 +19,11 @@ function Home() {
       toast("error fetching data");
     }
   }
-
   return (
     <>
+      <Navbar />
       <div className="w-full h-[{445px}] mx-auto text-center">
-        <p className="text-base md:px-[100px] px-8 my-12 md:mx-12 m-auto font-normal text-justify lg:text-center	 leading-7	">
+        <p className="text-base md:px-[100px] px-8 my-12 md:mx-12 m-auto font-normal text-justify lg:text-center leading-7	">
           Receive SMS Verification Online in a real physical SIM card. LazySMS
           is Free and no signup needed. Open any country and your chosen number
           to view the SMS received. We also have disposable fresh numbers that
@@ -35,6 +37,8 @@ function Home() {
           get data
         </button>
       </div>
+
+      <Footer />
     </>
   );
 }

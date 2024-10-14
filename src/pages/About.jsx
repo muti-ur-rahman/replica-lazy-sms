@@ -1,9 +1,11 @@
 import React from "react";
 import Navbar from "../components/Header/Navbar";
+import Footer from "../components/Footer/Footer";
 
 function About() {
   return (
     <>
+      <Navbar />
       <div className="flex flex-col w-{1043} m-12 p-12 ">
         <div className="min-h-screen topblog px-0 lg:px-12 flex flex-col justify-start rounded-lg items-center   ">
           <div className="shadow-2xl my-4  container lg:w-10/12 w-11/12 rounded">
@@ -146,6 +148,7 @@ function About() {
           </div>
         </div>
       </div>
+      <Footer />
     </>
   );
 }

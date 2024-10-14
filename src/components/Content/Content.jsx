@@ -1,20 +1,27 @@
-import React from 'react'
+import React from "react";
 
 function Content() {
   return (
-<>
-    {/* <main class="container mt-50 ">
-        <h2 class="text-xl font-bold mb-4">
+    <>
+      <main className="container mt-50 ">
+        <h2 className="text-xl font-bold mb-4">
           Main Content Area
-          <span>
-            span in h2
-          </span>
+          <span>span in h2</span>
         </h2>
-        <p>This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.This is where your main content will go.
+        <p>
+          This is where your main content will go.This is where your main
+          content will go.This is where your main content will go.This is where
+          your main content will go.This is where your main content will go.This
+          is where your main content will go.This is where your main content
+          will go.This is where your main content will go.This is where your
+          main content will go.This is where your main content will go.This is
+          where your main content will go.This is where your main content will
+          go.This is where your main content will go.This is where your main
+          content will go.
         </p>
-    </main> */}
-</>  
-)
+      </main>
+    </>
+  );
 }
 
-export default Content
+export default Content;
