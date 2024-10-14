@@ -1,24 +1,41 @@
-my-vite-app/
+/project-root
 │
-├── public/
-│   └── index.html
+├── /public
+│   ├── index.html          # Main HTML file
+│   └── assets              # Static assets like images, fonts
 │
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
+├── /src
+│   ├── /assets             # Images, icons, fonts, etc.
+│   │   └── logo.png
+│   ├── /components         # Reusable components
+│   │   └── Navbar.jsx
 │   │   └── Footer.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── FAQs.jsx
+│   ├── /pages              # Pages corresponding to routes
+│   │   └── Home.jsx
+│   │   └── About.jsx
 │   │   └── Contact.jsx
-│   ├── router/
-│   │   └── index.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+│   ├── /layouts            # Common layout components for pages
+│   │   └── MainLayout.jsx
+│   ├── /router             # All routing logic (React Router setup)
+│   │   └── AppRoutes.jsx
+│   ├── /hooks              # Custom React hooks
+│   │   └── useAuth.js
+│   ├── /styles             # Global and component-specific styles
+│   │   └── globals.css
+│   ├── /utils              # Utility functions like API calls, helpers
+│   │   └── api.js
+│   ├── /contexts           # Context API logic for managing global state
+│   │   └── AuthContext.js
+│   ├── App.jsx             # Main app component (with Router)
+│   ├── index.js            # Entry point for the app
+│   └── /config             # Configuration files (e.g., Tailwind, environment)
+│       └── tailwind.config.js
 │
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-└── vite.config.js
+├── /node_modules           # Installed dependencies (auto-generated)
+│
+├── .gitignore              # Files/folders ignored by Git
+├── package.json            # Project metadata and dependencies
+├── postcss.config.js       # PostCSS/Tailwind configuration
+├── tailwind.config.js      # Tailwind CSS configuration
+├── vite.config.js          # Vite configuration
+└── README.md               # Project documentation

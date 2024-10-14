@@ -1,13 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function App() {
-  return (
-    <>
-    {/* <Header/>
-    <Outlet/>
-    <Footer/> */}
-    </>
-)
+  return <></>;
 }
 
-export default App
+export default App;

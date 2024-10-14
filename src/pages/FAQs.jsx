@@ -2,11 +2,7 @@ import React from 'react'
 
 function FAQs() {
   return (
-    <>
-    <div>
-    ContactUs  
-    </div>
-    </>
+    <div>FAQs</div>
   )
 }
 
