@@ -1,4 +1,3 @@
-// src/components/Layout.jsx
 import React from "react";
 import Navbar from "../Header/Navbar";
 import Footer from "../Footer/Footer";
@@ -7,9 +6,13 @@ import { Outlet } from "react-router-dom";
 const Layout = () => {
   return (
     <>
+      {/* <div style={{ isolation: "isolate" }}> */}
       <Navbar />
-      <Outlet />
+      <main className=" ">
+        <Outlet />
+      </main>
       <Footer />
+      {/* </div> */}
     </>
   );
 };

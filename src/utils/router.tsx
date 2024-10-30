@@ -6,10 +6,12 @@ import About from "../pages/About";
 import FAQs from "../pages/FAQs";
 import ContactUs from "../pages/ContactUs";
 import Notfound404 from "../pages/Notfound404";
+import Layout from "../components/Layout/Layout";
 
 export const router = createBrowserRouter([
   {
     path: "/",
+    element: <Layout />,
     children: [
       { path: "/", element: <Home /> },
       { path: "/about", element: <About /> },

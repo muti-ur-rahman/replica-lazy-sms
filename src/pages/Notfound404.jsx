@@ -5,12 +5,10 @@ import Navbar from "../components/Header/Navbar";
 function Notfound404() {
   return (
     <>
-      <Navbar />
       <div className="w-full  flex flex-center border-b-indigo-500 rounded">
         <h2>Error 404</h2>
         <span>No webpage was found </span>
       </div>
-      <Footer />
     </>
   );
 }
