@@ -46,6 +46,9 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+Here’s a **Contact** section that reflects the learning purpose behind the project:
+
 ## Contact
 
-For any questions or feedback, please reach out through GitHub or visit [LazySMS.com](https://lazysms.com) to learn more about our mission to protect your privacy.
+This project, **LazySMS Replica**, was created by **Muti-ur-Rahman** as a learning project focused on privacy and online security. If you're interested in collaborating, sharing knowledge on privacy-focused tools, or discussing web development concepts, feel free to connect with me on GitHub. Let’s explore new ideas together and continue building skills in creating secure and user-friendly digital solutions.
+
