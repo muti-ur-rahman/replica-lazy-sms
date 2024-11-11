@@ -12,7 +12,7 @@ const Navbar = () => {
           {/* Logo Section */}
           <a className="font-medium text-2xl cursor-pointer flex items-center gap-1">
             <img src="./images/logo01.png" alt="" className="p-3 w-14 h-14" />
-            <div className="text-black font-medium text-2xl">LazySMS</div>
+            <div className="text-black font-medium text-2xl">QuickSMS</div>
           </a>
           <div class="flex">
             <a
