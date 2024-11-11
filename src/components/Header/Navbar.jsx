@@ -16,8 +16,8 @@ const Navbar = () => {
           </a>
           <div class="flex">
             <a
-
-  https://play.google.com/store/apps
+{/*   https://play.google.com/store/apps */}
+      href="play.google.com/store/apps" target="_blank" rel="noopener noreferrer">
             >
               <img
                 src="./images/gplaylogo.webp"
