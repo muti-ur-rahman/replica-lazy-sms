@@ -9,7 +9,7 @@ function HomeDetails() {
             How to Receive SMS Online for Free?
           </h2>
           <p className="text-[#667085] text-justify lg:text-center w-11/12 sm:w-full lg:px-12 p-0 font-normal text-lg mr-auto ml-auto ">
-            Use LazySMS to Receive SMS Online for free. Read this guide to
+            Use QuickSMS to Receive SMS Online for free. Read this guide to
             understand how to use the website and its benefits. Download our
             Android app to instantly receive any verification codes. We are
             constantly adding new numbers and more countries. Join our Telegram
@@ -85,7 +85,7 @@ function HomeDetails() {
         </h1>
         <p className="text-base sm:text-lg md:text-xl">
           Receive any verification SMS in a real SIM card without sharing your
-          personal number online using LazySMS for free. Use our numbers
+          personal number online using QuickSMS for free. Use our numbers
           virtually to register on any website or app. In this guide, we will
           explain how to use our website and share tips to keep your data safe
           online.
@@ -100,7 +100,7 @@ function HomeDetails() {
         </h1>
         <p className="text-left text-lg px-2 pt-2">
           Here is how you can receive sms verification online for free: Go to
-          lazysms.com and choose a country. Then choose a phone number. Use the
+          QuickSMS.com and choose a country. Then choose a phone number. Use the
           number to register and receive your verification code.
         </p>
         <p className="text-left text-lg px-2 pt-2">
@@ -109,7 +109,7 @@ function HomeDetails() {
           anytime. We do not use any Virtual VoIP numbers. Simply because VoIP
           numbers do not work everywhere. Read this guide to understand how to
           receive verification SMS, get free Premium numbers and also buy
-          Private Numbers to register on any platform using LazySMS.
+          Private Numbers to register on any platform using QuickSMS.
         </p>
         <p className="text-left text-lg px-2 pt-2">
           Let’s begin now. Choose your country from the available list, select a
@@ -127,7 +127,7 @@ function HomeDetails() {
         </h1>
         <p className="text-left text-lg px-2 pt-2">
           Here is how you can receive sms verification online for free: Go to
-          lazysms.com and choose a country. Then choose a phone number. Use the
+          QuickSMS.com and choose a country. Then choose a phone number. Use the
           number to register and receive your verification code.
         </p>
         <p className="text-left text-lg px-2 pt-2">
@@ -136,7 +136,7 @@ function HomeDetails() {
           anytime. We do not use any Virtual VoIP numbers. Simply because VoIP
           numbers do not work everywhere. Read this guide to understand how to
           receive verification SMS, get free Premium numbers and also buy
-          Private Numbers to register on any platform using LazySMS.
+          Private Numbers to register on any platform using QuickSMS.
         </p>
         <p className="text-left text-lg px-2 pt-2">
           Let’s begin now. Choose your country from the available list, select a
@@ -155,7 +155,7 @@ function HomeDetails() {
           </h1>
           <p className="text-lg pt-2">
             Here is how you can receive SMS verification online for free: Go to
-            lazysms.com and choose a country. Then choose a phone number. Use
+            QuickSMS.com and choose a country. Then choose a phone number. Use
             the number to register and receive your verification code.
           </p>
           <p className="text-lg pt-2">
@@ -164,7 +164,7 @@ function HomeDetails() {
             anytime. We do not use any Virtual VoIP numbers. Simply because VoIP
             numbers do not work everywhere. Read this guide to understand how to
             receive verification SMS, get free Premium numbers and also buy
-            Private Numbers to register on any platform using LazySMS.
+            Private Numbers to register on any platform using QuickSMS.
           </p>
           <p className="text-lg pt-2">
             Let’s begin now. Choose your country from the available list, select
