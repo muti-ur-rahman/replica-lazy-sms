@@ -15,11 +15,8 @@ const Navbar = () => {
             <div className="text-black font-medium text-2xl">QuickSMS</div>
           </a>
           <div class="flex">
-            <a
-              
-{/*  https://play.google.com/store/apps
-             */}
-              >
+            <a              
+      href="play.google.com/store/apps" target="_blank" rel="noopener noreferrer">
               <img
                 src="./images/gplaylogo.webp"
                 alt=""
