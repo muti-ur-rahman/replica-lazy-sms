@@ -44,5 +44,5 @@ Here’s a **Contact** section that reflects the learning purpose behind the pro
 
 ## Contact
 
-This project, **QuickSMS Replica**, was created by **Muti-ur-Rahman** as a learning project focused on privacy and online security. If you're interested in collaborating, sharing knowledge on privacy-focused tools, or discussing web development concepts, feel free to connect with me on GitHub. Let’s explore new ideas together and continue building skills in creating secure and user-friendly digital solutions.
+This project, **QuickSMS**, was created by **Muti-ur-Rahman** as a learning project focused on privacy and online security. If you're interested in collaborating, sharing knowledge on privacy-focused tools, or discussing web development concepts, feel free to connect with me on GitHub. Let’s explore new ideas together and continue building skills in creating secure and user-friendly digital solutions.
 
