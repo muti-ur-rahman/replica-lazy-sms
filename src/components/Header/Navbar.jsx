@@ -16,8 +16,6 @@ const Navbar = () => {
           </a>
           <div class="flex">
             <a
-{/*               href="https://play.google.com/store/apps/details?id=receive.sms.verification"
-              target="_blank" */}
 
   https://play.google.com/store/apps
             >
