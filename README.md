@@ -1,11 +1,11 @@
 
-# LazySMS Replica
+# QuickSMS 
 
 Your Privacy and Security Guardians
 
-## About LazySMS
+## About QuickSMS
 
-Welcome to **LazySMS.com** - your trusted online privacy and security partner. Our mission is clear: to put an end to spam calls and safeguard your valuable data. LazySMS provides you with free virtual phone numbers that can be used to sign up for various websites and apps, allowing you to keep your personal number private and secure.
+Welcome to **QuickSMS.com** - your trusted online privacy and security partner. Our mission is clear: to put an end to spam calls and safeguard your valuable data. QuickSMS provides you with free virtual phone numbers that can be used to sign up for various websites and apps, allowing you to keep your personal number private and secure.
 
 ## Features
 
@@ -50,5 +50,5 @@ Here’s a **Contact** section that reflects the learning purpose behind the pro
 
 ## Contact
 
-This project, **LazySMS Replica**, was created by **Muti-ur-Rahman** as a learning project focused on privacy and online security. If you're interested in collaborating, sharing knowledge on privacy-focused tools, or discussing web development concepts, feel free to connect with me on GitHub. Let’s explore new ideas together and continue building skills in creating secure and user-friendly digital solutions.
+This project, **QuickSMS Replica**, was created by **Muti-ur-Rahman** as a learning project focused on privacy and online security. If you're interested in collaborating, sharing knowledge on privacy-focused tools, or discussing web development concepts, feel free to connect with me on GitHub. Let’s explore new ideas together and continue building skills in creating secure and user-friendly digital solutions.
 
