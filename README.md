@@ -1,5 +1,5 @@
 
-# QuickSMS Replica
+# QuickSMS 
 
 Your Privacy and Security Guardians
 
