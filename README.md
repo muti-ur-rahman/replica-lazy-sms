@@ -18,20 +18,14 @@ Welcome to **QuickSMS.com** - your trusted online privacy and security partner. 
 To clone and run this project locally:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/muti-ur-rahman/replica-lazy-sms.git
-   cd replica-lazy-sms
-   ```
-
+   
 2. **Install dependencies:**  
    Use `npm install` or `yarn install` if it's a Node.js project.
 
 3. **Start the project:**  
    Run the following command to start the app (adjust according to your project's framework):
-   ```bash
    npm start
-   ```
-
+   
 ## How It Works
 
 1. **Get a Virtual Phone Number:** Choose from a list of virtual phone numbers.
